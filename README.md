@@ -35,16 +35,23 @@ Esse projeto faz parte de uma série de projetos criados para estudo de C# .Net 
 # Como executar o projeto
 Pré-requisitos: DotNet 8
 - [DotNet](https://dotnet.microsoft.com/pt-br/download)
+- [GIT](https://git-scm.com/)
+
+- Processo de execuçao do projeto
 
   ```bash
   # clonar repositório
     git clone https://github.com/Bartcelo/EmprestimoLivros.git
   # entrar na pasta do projeto
     cd EmprestimoLivros
+  # Deve ser criado um novo arquivo com o nome appsettings.json uma copia de appsettings - exemplo.json.
+  # Na linha 10 do documento appsettings - exemplo.json deve ser configurado os acessos ao servidor como, [userName] e [passaword].
   # Execultar o Projeto
     dotnet run
+  # No teminal mostrara o caminho localhost e a porta que deve ser aberta para visualizar o projeto
+   
   ```
-<p>No teminal mostrara o caminho localhost e a porta que deve ser aberta para visualizar o projeto</p>
+
 
 # Implementações Futuras
 1. Sistema de buscas
