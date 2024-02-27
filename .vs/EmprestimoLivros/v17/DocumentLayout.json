@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\src\\csharp\\EmprestimoLivros\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{94B59ECB-863B-4DC4-85EA-473CE84B9C3B}|EmprestimoLivros.csproj|c:\\src\\csharp\\emprestimolivros\\appsettings - exemplo.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{94B59ECB-863B-4DC4-85EA-473CE84B9C3B}|EmprestimoLivros.csproj|solutionrelative:appsettings - exemplo.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{94B59ECB-863B-4DC4-85EA-473CE84B9C3B}|EmprestimoLivros.csproj|c:\\src\\csharp\\emprestimolivros\\models\\emprestimosmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{94B59ECB-863B-4DC4-85EA-473CE84B9C3B}|EmprestimoLivros.csproj|solutionrelative:models\\emprestimosmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{94B59ECB-863B-4DC4-85EA-473CE84B9C3B}|EmprestimoLivros.csproj|c:\\src\\csharp\\emprestimolivros\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{94B59ECB-863B-4DC4-85EA-473CE84B9C3B}|EmprestimoLivros.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{94B59ECB-863B-4DC4-85EA-473CE84B9C3B}|EmprestimoLivros.csproj|c:\\src\\csharp\\emprestimolivros\\appsettings - exemplo.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{94B59ECB-863B-4DC4-85EA-473CE84B9C3B}|EmprestimoLivros.csproj|solutionrelative:appsettings - exemplo.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,24 +22,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "appsettings - exemplo.json",
               "DocumentMoniker": "C:\\src\\csharp\\EmprestimoLivros\\appsettings - exemplo.json",
               "RelativeDocumentMoniker": "appsettings - exemplo.json",
               "ToolTip": "C:\\src\\csharp\\EmprestimoLivros\\appsettings - exemplo.json",
               "RelativeToolTip": "appsettings - exemplo.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-02-27T12:04:37.815Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": ".gitignore",
               "DocumentMoniker": "C:\\src\\csharp\\EmprestimoLivros\\.gitignore",
               "RelativeDocumentMoniker": ".gitignore",
@@ -52,7 +52,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "EmprestimosModel.cs",
               "DocumentMoniker": "C:\\src\\csharp\\EmprestimoLivros\\Models\\EmprestimosModel.cs",
               "RelativeDocumentMoniker": "Models\\EmprestimosModel.cs",
